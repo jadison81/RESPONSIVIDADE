@@ -1,3 +1,3 @@
-Criação do Projeto de Responsividade sendo realizado juntamente com o curso de Formação DevClub do Rodolfo Mori. 
+Criação do Projeto de Responsividade para utilização tanto no computador quanto no smartphone, sendo realizado juntamente com o Rodolfo Mori do curso de Formação DevClub.
 
-Utilizando as linguagens: HTML5 | CSS
+Projeto este onde foram utilizandas as seguintes linguagens: HTML5 | CSS
